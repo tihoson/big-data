@@ -1,0 +1,9 @@
+I once had a discussion with a founder of an Israeli startup developing a GPU-based database with a focus on speed. The work stack included Haskell and C++, among others, and the founder was complaining about how hard it is to find competent programmers. Which was part of the reason he came to Moscow.
+
+I carefully asked if they considered using something more popular and new. And even though the answer was rather polite and well-supported with arguments, it still sounded like “Come on, don’t even bring up these toys”.
+
+Until then, all I heard about Haskell could be summarized as “be VERY careful in dealing with it”. To get to know Haskell programmers better, I came to a topical Telegram chat with some questions. I was quite afraid at first, and, as it turned out, I was right.
+
+Haskell doesn’t lend itself to popular explanation, and people seemingly don’t even try. If the topic is ever brought up, it’s only talked about in full depth and as objectively as possible. Someone wrote to me: “One of the defining features of both Haskell itself and its community is that they didn’t try to achieve any kind of mainstream recognition. Instead, they focused on building a logical, principal way of solving real problems over trying to appease the widest audience possible”
+
+Nevertheless, a couple of people did tell me about their experiences, which are shown below.

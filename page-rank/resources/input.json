@@ -1,0 +1,15 @@
+[
+    {
+        "name": "a",
+        "neighbours": ["b"]
+    }, {
+        "name": "b",
+        "neighbours": ["c", "a"]
+    }, {
+        "name": "c",
+        "neighbours": ["b", "d"]
+    }, {
+        "name": "d",
+        "neighbours": ["c"]
+    }
+]
